@@ -1,0 +1,4 @@
+mysql/*
+nodejs/node_modules
+
+!mysql/init.sql
